@@ -1,4 +1,4 @@
-# Data Dictionary – ApexPlanet Sales Dataset
+# Data Dictionary – Sales Transactions Dataset
 
 | Column Name   | Data Type | Meaning                             | Business Relevance                   |
 |---------------|-----------|-------------------------------------|--------------------------------------|
@@ -15,4 +15,3 @@
 | Unit_Price    | Float     | Price per unit                      | Basis for revenue calculations       |
 | Total_Sales   | Float     | Total sales value                   | Core metric for revenue tracking     |
 | Age_Group     | String    | Derived age category                | Supports targeted marketing strategy |
-
